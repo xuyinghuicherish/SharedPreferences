@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ContentDescription">
+        <ignore path="res\layout\login.xml" />
+        <ignore path="res\layout\logo.xml" />
+    </issue>
+    <issue id="Deprecated">
+        <ignore path="res\layout\login.xml" />
+    </issue>
+    <issue id="ExtraText">
+        <ignore path="res\layout\login.xml" />
+        <ignore path="res\layout\logo.xml" />
+    </issue>
+    <issue id="HardcodedText">
+        <ignore path="res\layout\login.xml" />
+        <ignore path="res\layout\logo.xml" />
+        <ignore path="res\layout\welcome.xml" />
+    </issue>
+    <issue id="InefficientWeight">
+        <ignore path="res\layout\logo.xml" />
+    </issue>
+    <issue id="ObsoleteLayoutParam">
+        <ignore path="res\layout\logo.xml" />
+    </issue>
+    <issue id="TextFields">
+        <ignore path="res\layout\login.xml" />
+    </issue>
+    <issue id="UselessParent" severity="ignore" />
+</lint>
